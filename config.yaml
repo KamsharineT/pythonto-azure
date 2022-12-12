@@ -1,0 +1,3 @@
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=flotechteststorage;AccountKey=jDmAGjORIFCMQHzjt4ngKiL+92QbIX382PbUsu3k4+DfIoYS3TJaNwFtbn4VfQ1bZ5lFW5FknPvz+AStrj3nzA==;EndpointSuffix=core.windows.net"
+text_container_name: "readings"
+source_folder: "/script/readings"
